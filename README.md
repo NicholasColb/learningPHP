@@ -1,1 +1,1 @@
-# learningPHP
+A simple project to fiddle around with PHP. Main.php scrapes the week's weather forecast from the Finnish Meteorological Institute's website. Also fetches coordinates from a mySQL database and pinpoints them onto a Google Maps map. 
